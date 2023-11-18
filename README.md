@@ -27,8 +27,8 @@
   ![Screenshot of application](./Assets/Images/InsomniaScreenshot.png)
   ![GIF demo](./Assets/Images/vsCode.gif)
   ![GIF demo](./Assets/Images/Insomnia.gif)
-   [Link to Video demonstration] (https://clipchamp.com/watch/Myr5jfaJRHf)
-  ![Walkthrough Video](./Assets/Images/eComm-BE-Walkthrough.mp4)
+   ### Link to Video demonstration (https://clipchamp.com/watch/Myr5jfaJRHf)
+
 
   ## Licenses
   This project is covered under the MIT license.
